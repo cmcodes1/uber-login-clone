@@ -1,4 +1,4 @@
-<h1 align="center">uber-login-clone</h1>
+<h1 align="center">:iphone: uber-login-clone</h1>
 <p align="center">
 	Animated login screen made for <a href="https://github.com/cmcodes1/Studify">Studify</a>, inspired by Uber. <br/><br/>
 	<img src="https://img.shields.io/badge/Platform-Android-brightgreen.svg" />
