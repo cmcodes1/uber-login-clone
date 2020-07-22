@@ -25,5 +25,5 @@
 1. Fork this repo.
 2. Download the files on your machine.
 3. Extract these files and place them in your app folder.
-4. Download all the modules mentioned above.
+4. Install all the modules mentioned above.
 5. Include this line in your app.js `import Login from './Login';`
