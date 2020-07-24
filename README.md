@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Editor-VS_Code-0078d7.svg" />
   <img src="https://img.shields.io/badge/Framework-React_Native-61dbfb.svg" />
   <img src="https://img.shields.io/badge/Language-JavaScript-f0db4f.svg" /> <br/> <br/> <br/>
-	<img src="https://github.com/cmcodes1/uber-login-clone/blob/master/preview.gif" height="600px" width="300px" />
+	<img src="https://github.com/cmcodes1/uber-login-clone/blob/master/preview.gif" />
 </p>
 
 # node modules you will need to install
